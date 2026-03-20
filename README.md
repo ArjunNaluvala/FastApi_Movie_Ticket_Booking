@@ -4,7 +4,7 @@
 
 This project is a **Movie Ticket Booking Backend System** built using **FastAPI**.
 It simulates a real-world cinema booking application where users can browse movies, book tickets, and manage seat reservations.
-
+⭐ This project demonstrates real-world backend workflow similar to BookMyShow.
 
 ## 🚀 Features Implemented
 
