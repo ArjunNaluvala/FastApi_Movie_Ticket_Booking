@@ -80,6 +80,21 @@ This project demonstrates how backend systems handle:
 * API-based architecture
 
 
+##  Tech Stack
+* Backend: FastAPI
+* Data Validation: Pydantic
+* Server: Uvicorn
+
+
+##  To install dependencies:
+pip install fastapi uvicorn
+
+##  To run the server:
+uvicorn main:app --reload
+
+##  To open in browser:
+http://127.0.0.1:8000/
+
 ## 🔗 Author
 
 **Arjun Naluvala**
